@@ -1,0 +1,40 @@
+# ==========================================
+# Visual Studio midlertidige filer og rod
+# ==========================================
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.suo
+*.peruser
+*.ncb
+*.db
+*.opendb
+
+# ==========================================
+# C++ kompilerede filer (behøves ikke på GitHub)
+# ==========================================
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lk
+*.tlog
+*.lastbuildstate
+
+# ==========================================
+# Arduino specifikke compiler-filer (hvis relevant)
+# ==========================================
+build/
+bin/
+
+# ==========================================
+# Tillad kun dine vigtige kilde- og dokumentationsfiler
+# ==========================================
+# (Dette sikrer, at Git altid tager dine koder og READMEs med)
+!*.cpp
+!*.h
+!*.ino
+!*.md

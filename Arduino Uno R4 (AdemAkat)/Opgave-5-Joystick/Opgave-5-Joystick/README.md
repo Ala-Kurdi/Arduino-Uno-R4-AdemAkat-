@@ -1,4 +1,4 @@
-# Opgave 5: Joystick
+# Opgave 5: Joystick!
 
 # Introduktion og mål
 Målet med denne opgave var at forbinde et joystick til Arduino UNO R4 WiFi. Jeg skulle lære at læse både digitale signaler fra trykknappen og analoge signaler fra X- og Y-aksen. Opgaven handlede også om at finde fejl i koden og optimere dataene med en deadzone og en højere hastighed.

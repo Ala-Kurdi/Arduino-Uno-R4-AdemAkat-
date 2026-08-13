@@ -1,4 +1,4 @@
-# Opgave 4: LED display
+# Opgave 4: LED display.
 
 # Introduktion og mål
 Målet med denne opgave var at lære at bruge den indbyggede 12x8 LED-skærm på Arduino UNO R4 WiFi. Jeg har arbejdet med at tænde de enkelte lysdioder ved hjælp af et 2D-array og med at tegne forskellige figurer ved hjælp af et grafik-bibliotek.

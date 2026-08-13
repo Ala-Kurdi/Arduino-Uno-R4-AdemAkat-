@@ -1,4 +1,4 @@
-# Opgave 2: Opsætning af PlatformIO
+# Opgave 2: Opsætning af PlatformIO.
 
 # Introduktion og mål
 Målet med denne opgave var at prøve en mere professionel udviklingsplatform ved at installere Visual Studio Code og udvidelsen PlatformIO IDE. Herefter skulle det velkendte Blink-program uploades herigennem.

@@ -1,20 +1,16 @@
 # Opgave 2: Opsætning af PlatformIO
 
-# Introduktion og Mål
-Målet med denne opgave var at stifte bekendtskab med en professionel udviklingsplatform ved at installere Visual Studio Code og udvidelsen PlatformIO IDE, samt uploade det velkendte Blink-program herigennem.
+# Introduktion og mål
+Målet med denne opgave var at prøve en mere professionel udviklingsplatform ved at installere Visual Studio Code og udvidelsen PlatformIO IDE. Herefter skulle det velkendte Blink-program uploades herigennem.
 
-# Hardware anvendt:
-* Arduino Uno R4 WiFi
-* USB-C kabel
+# Hardware brugt
+- Arduino Uno R4 WiFi
+- USB-C kabel
 
----
-
-# Hvad lærte vi (Forskel fra Opgave 1)
-Hvor opgave 1 blev løst i det mere enkle og låste Arduino IDE, er denne opgave løst i en avanceret kildekodeneditor (VS Code) ved hjælp af PlatformIO-systemet.
-* **Eksplicit inkludering:** Koden i `main.cpp` kræver nu linjen `#include <Arduino.h>` i toppen, da vi ikke længere kører i Arduinos eget lukkede miljø.
-* **Struktur:** PlatformIO opbygger et rigtigt professionelt projektmiljø med en `platformio.ini` konfigurationsfil, en `src/` mappe til kildekoden og automatiske build-værktøjer.
-
----
+# Hvad jeg lærte og forskellen fra opgave 1
+Hvor opgave 1 blev lavet i det mere enkle og lukkede Arduino IDE, er denne opgave lavet i kildekodeneditoren VS Code ved hjælp af PlatformIO-systemet.
+- Inkludering af kode: Koden i main.cpp kræver nu linjen #include <Arduino.h> i toppen, fordi vi ikke længere kører i Arduinos eget lukkede miljø.
+- Struktur: PlatformIO opbygger et rigtigt projektmiljø med en platformio.ini fil til indstillinger, en src-mappe til selve kildekoden og automatiske værktøjer til at bygge koden.
 
 # Resultat
-PlatformIO er opsat korrekt, koden er kompileret (bygget) og uploadet uden fejl. Terminalen melder `[SUCCESS]`, og Arduinoens indbyggede LED blinker som forventet.
+PlatformIO er sat rigtigt op, og koden er bygget og uploadet uden fejl. Terminalen skriver SUCCESS, og Arduinoens indbyggede LED blinker som den skal.

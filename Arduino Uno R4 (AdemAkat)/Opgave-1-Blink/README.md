@@ -1,4 +1,4 @@
-# Opgave 1: Opsætning af Arduino IDE og Blink-test
+# Opgave 1: Opsætning af Arduino IDE og Blink-test!
 
 # Introduktion og mål
 Målet med denne opgave var at installere det nye Arduino IDE, lave en forbindelse mellem computeren og Arduinoen, samt uploade det første testprogram, så det virker.

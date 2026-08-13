@@ -1,4 +1,4 @@
-# Opgave 3: Seriel port og LED-skærm
+# Opgave 3: Seriel port og LED-skærm.
 
 # Introduktion og mål
 Målet med denne opgave var at lære at bruge Arduinoens indbyggede serielle port til at sende og modtage data mellem computeren og Arduinoen via USB-kablet. Til sidst skulle vi modtage tekstbeskeder fra computeren og få dem til at rulle hen over Arduinoens indbyggede 12x8 LED-skærm.
